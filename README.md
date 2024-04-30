@@ -4,13 +4,12 @@
 
 A Web Application provides services to people in general and to the elderly and patients in particular. 
 It's designed to connect laboratory owners and users to facilitate the process of finding and booking laboratory tests. 
-<br/><br/><br/><br/><br/><br/>
-### Laboratory Owners can join us by applying for a contract:
-<img height="500px" src="https://github.com/Mah-moud22/Thalili/assets/81832622/fc53f15b-bdbc-4d94-ab39-1d258445660e" />
+<br/><br/><br/><br/><br/>
 
-The application will have two main user types:
-
-### Laboratory Owners (Lab Owners):
+## The application will have two main user types:
+### Laboratory Owners: 
++ They can join us by applying for a contract:<br/><br/>
+<img height="500px" src="https://github.com/Mah-moud22/Thalili/assets/81832622/fc53f15b-bdbc-4d94-ab39-1d258445660e" /> <br/>
 + Create and manage a laboratory profile.
 + Add available tests and their prices.
 + Manage laboratory bookings.
