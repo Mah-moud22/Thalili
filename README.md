@@ -1,5 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">Software engineer from Egypt</h3>
+<p align="center"><img src="https://github.com/Mah-moud22/Thalili/blob/master/Thalili/Content/Assets/imgs/Group%20640.png" alt="Logo"/></p>
+
+
+# Thalili
+
+A Web Application provides services to people in general and to the elderly and patients in particular. 
+It's designed to connect laboratory owners and users to facilitate the process of finding and booking laboratory tests. The application will have two main user types:
+
+### Laboratory Owners (Lab Owners):
++ Create and manage a laboratory profile.
++ Add available tests and their prices.
++ Manage laboratory bookings.
++ View laboratory ratings and reviews.
++ Update availability status (open/closed) to ensure users are only directed to accessible laboratories do not wait for long time.
+### Regular Users: 
++ Search for specific laboratory tests
++ View a list of available laboratories with their prices, ratings, and       availability status.
++ Compare options and choose the best laboratory.
++ Book appointments.
++ Rate and review laboratories.
++ Receive notifications about appointment confirmations, cancellations, and availability changes.
+
+### !important 
+In the case where a laboratory is available and I, as a user, send a request and the laboratory delays its response, the system automatically reduces its rating.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mah-moud22&label=Profile%20views&color=0e75b6&style=flat" alt="mah-moud22" /> </p>
 
