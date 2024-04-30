@@ -8,7 +8,7 @@ It's designed to connect laboratory owners and users to facilitate the process o
 
 ## The application will have two main user types:
 ### Laboratory Owners: 
-+ They can join us by applying for a contract:<br/><br/>
++ They can join us by applying for a contract<br/><br/>
 <img height="500px" src="https://github.com/Mah-moud22/Thalili/assets/81832622/fc53f15b-bdbc-4d94-ab39-1d258445660e" /> <br/>
 + Create and manage a laboratory profile.
 + Add available tests and their prices.
