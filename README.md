@@ -3,7 +3,8 @@
 # Thalili
 
 A Web Application provides services to people in general and to the elderly and patients in particular. 
-It's designed to connect laboratory owners and users to facilitate the process of finding and booking laboratory tests. 
+It's designed to connect laboratory owners and users to facilitate the processing of finding and booking laboratory tests. <br/>
+We Designed user interfaces (UIs) with a focus on user needs, prioritizing clarity and consistency across all devices to minimize training requirements
 <br/><br/><br/><br/><br/>
 
 ## The application will have two main user types:
